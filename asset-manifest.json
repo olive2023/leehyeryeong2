@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leehyeryeong2/static/css/main.9cf02e9d.css",
+    "main.js": "/leehyeryeong2/static/js/main.055b905a.js",
+    "index.html": "/leehyeryeong2/index.html",
+    "main.9cf02e9d.css.map": "/leehyeryeong2/static/css/main.9cf02e9d.css.map",
+    "main.055b905a.js.map": "/leehyeryeong2/static/js/main.055b905a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf02e9d.css",
+    "static/js/main.055b905a.js"
+  ]
+}
